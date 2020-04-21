@@ -1,0 +1,23 @@
+.main_header{
+    font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+	background: #99ff99;
+	color: red;
+	font-size: 18px;
+    border: 2px red;
+}
+body {
+    background-color: #ffd480 ;
+}
+.para{
+    font-family:"Palatino Linotype"
+    font-size: 30px;
+    color: black;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
