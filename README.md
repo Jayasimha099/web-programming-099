@@ -1,8 +1,8 @@
 # about-me
 Hello, Iam jayasimha. I have designed a webpage based on my career and skills
 
-## Repository Links
-https://jayasimha099.github.io/web-dev2019501099/Project0_Completed/my-wepage.html
+## Repository Links (Hosted link)
+https://jayasimha099.github.io/web-programming-099/index.html
 
 web page screen cast video Link
 https://drive.google.com/file/d/1iVGuILjChMQRqnL4Y63d1h2ihH03Val9/view?usp=sharing
